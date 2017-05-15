@@ -24,7 +24,7 @@ void quotes() {
 	else if ((num >= 41) && (num <= 60))
 		cout << "We are all pawns of something even greater:memes, the DNA of the soul.-Monsoon,Metal gear rising Revengeance" << endl << endl;
 	else if ((num >= 61) && (num <= 80))
-		cout << "im just the product of the system of catastrophe, yet a masterpeice.-Dan Reynolds, Whatever it Takes" << endl << endl;
+		cout << "im just the product of the system of catastrophe, yet a masterpeice, yet im half diseased.-Dan Reynolds, Whatever it Takes" << endl << endl;
 	else if ((num >= 81) && (num <=101))
 		cout << "I don't want to set the world on fire, I just want to start a flame in your heart.-The Ink Spots,I Don't Want to Set the World on Fire" << endl << endl;
 }
